@@ -1,4 +1,4 @@
-📄 README.md (Final Version)
+ok📄 README.md (Final Version)
 
 # 🧮 Python Calculator
 
@@ -88,11 +88,3 @@ This project is open-source under the MIT License.
 Feel free to use, modify, and share it!
 
 ⸻
-
-If you want, I can also:
-
-✨ Add badges
-✨ Add screenshots
-✨ Create a GUI version
-✨ Add unit tests
-Just let me know!
